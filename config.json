@@ -74,10 +74,6 @@
         "SkyStreaming": {
             "url": "https://skystreaming.blog",
             "enabled": "1"
-        },
-        "DaddyLiveHD": {
-            "url": "https://daddylive.mp",
-            "enabled": "1"
         }
     },
     "General": {
